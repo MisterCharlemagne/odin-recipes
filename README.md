@@ -1,0 +1,1 @@
+This is the first project in the HTML section of The Odin Project's HTML foundations course. I will be creating a basic recipe website using the skills I have learned in HTML thus far. It will be crude, as we have not touched on CSS yet, but it will be functional...hopefully!
